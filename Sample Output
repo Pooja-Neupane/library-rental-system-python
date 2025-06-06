@@ -1,0 +1,32 @@
+📚 Available Books:
+ - 1984
+ - The Alchemist
+ - Python Basics
+ - Data Structures
+ - AI for Beginners
+
+📖 Starting borrow session...
+
+👉 Next available: 1984
+Do you want to borrow this book? (yes/no): yes
+✅ You have borrowed: 1984
+
+👉 Next available: The Alchemist
+Do you want to borrow this book? (yes/no): no
+
+👉 Next available: Python Basics
+Do you want to borrow this book? (yes/no): yes
+✅ You have borrowed: Python Basics
+
+👉 Next available: Data Structures
+Do you want to borrow this book? (yes/no): no
+
+👉 Next available: AI for Beginners
+Do you want to borrow this book? (yes/no): yes
+✅ You have borrowed: AI for Beginners
+
+✅ All books reviewed. No more available books.
+
+📚 Final Available Books:
+ - The Alchemist
+ - Data Structures
